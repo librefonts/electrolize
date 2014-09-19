@@ -1,0 +1,23 @@
+{
+  "name": "Electrolize",
+  "designer": "Gaslight",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Sans Serif",
+  "size": 24536,
+  "fonts": [
+    {
+      "name": "Electrolize",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Electrolize-Regular.ttf",
+      "postScriptName": "Electrolize-Regular",
+      "fullName": "Electrolize-Regular",
+      "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Electroliz\"\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL"
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2011-12-07"
+}
